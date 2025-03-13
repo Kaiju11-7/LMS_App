@@ -31,8 +31,5 @@ The library management system aims to provide a convenient platform for libraria
     <li>ViteJS</li>
     <li>Laravel(Version 10)</li>
 </ul
-
-Video: https://www.youtube.com/watch?v=ywliXgJq0n0
-=======
 # LMS_App
 >>>>>>> 303237f477851312b5d1433ebcb4caa81f3b3c4a
