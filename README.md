@@ -1,35 +1,30 @@
-<<<<<<< HEAD
-## Library Management System Project for OOP 2 Project
-The library management system aims to provide a convenient platform for librarians and book enthusiasts. It consists of an administrative interface for managing library resources, while users can easily navigate through the library's collection and conveniently pay fees online.
+## Dự án Hệ Thống Quản Lý Thư Viện cho môn OOP 2  
+Hệ thống quản lý thư viện nhằm cung cấp một nền tảng tiện lợi cho thủ thư và những người yêu sách. Hệ thống bao gồm giao diện quản trị để quản lý tài nguyên thư viện, trong khi người dùng có thể dễ dàng tìm kiếm sách và thanh toán phí trực tuyến.
 
-**General Features:**
-- Signup and Signin
-- Email Verification
-- Reset Password using Email Link
+### **Chức năng chung:**  
+- Đăng ký và đăng nhập  
+- Xác minh email  
+- Đặt lại mật khẩu qua liên kết email  
 
-**User Features:**
-- Browse Books
-- Book Request (Requesting to borrow book/s)
-- Can check Issued Books if it's already Overdue, Returned or still On-going
-- Invoice: Can pay using PayPal or can choose pay over-the-counter.
-- Profile Account Update
+### **Chức năng của người dùng:**  
+- Duyệt sách  
+- Yêu cầu mượn sách  
+- Kiểm tra trạng thái sách đã mượn (quá hạn, đã trả, hoặc đang mượn)  
+- Hóa đơn: Có thể thanh toán qua VNpay hoặc chọn thanh toán trực tiếp tại thư viện  
+- Cập nhật thông tin tài khoản  
 
-**Admin Features:**
-- Dashboard (Can see Total User, Total Available Books, Active Book Request, Total Sales, and Monthly Chart Analytics)
-- Manage Books (To add Book)
-- Book Authors (To add Author)
-- Book Categories (To add Category)
-- Manage Issued Books
-- Manage Transactions
-- User Management
+### **Chức năng của quản trị viên:**  
+- Bảng điều khiển (Xem tổng số người dùng, tổng số sách có sẵn, yêu cầu mượn sách đang hoạt động, tổng doanh thu, và biểu đồ phân tích hàng tháng)  
+- Quản lý sách (Thêm sách mới)  
+- Quản lý tác giả (Thêm tác giả mới)  
+- Quản lý danh mục sách (Thêm danh mục mới)  
+- Quản lý sách đã mượn  
+- Quản lý giao dịch  
+- Quản lý người dùng  
 
-<strong>Technology being used:</strong>
-<ul>
-    <li>VueJS 3</li>
-    <li>InertiaJS</li>
-    <li>TailwindCSS</li>
-    <li>ViteJS</li>
-    <li>Laravel(Version 10)</li>
-</ul
-# LMS_App
->>>>>>> 303237f477851312b5d1433ebcb4caa81f3b3c4a
+### **Công nghệ sử dụng:**  
+- VueJS 3  
+- InertiaJS  
+- TailwindCSS  
+- ViteJS  
+- Laravel (Phiên bản 10)
